@@ -1,0 +1,7 @@
+services:
+  api:
+    build: .
+    container_name: nexus-technical-test-api
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
