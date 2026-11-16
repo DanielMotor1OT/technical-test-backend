@@ -8,7 +8,7 @@ Dockerized backend built with **FastAPI + Swagger (OpenAPI 3)** mirroring the pr
 docker compose up --build
 ```
 
-## Endpoints & Documentation
+## Endpoints
 
 - **Swagger UI:** http://localhost:8000/docs
 - **ReDoc:** http://localhost:8000/redoc
